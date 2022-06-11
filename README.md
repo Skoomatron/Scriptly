@@ -52,6 +52,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 * ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 * ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+* ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 * [Recoil](https://recoiljs.org/)
 * [React Dropzone](https://react-dropzone.js.org/)
 * [Mongo Atlas](https://www.mongodb.com/)
@@ -101,7 +102,7 @@ Check out our website [here](http://scriptly.us)
 * Jonathan Ghee - [LinkedIn Profile](https://twitter.com/your_username) - Add your website here
 * Peter Schaefferkoetter - [LinkedIn Profile](https://www.linkedin.com/in/pschaefferkoetter/) - [GitHub](https://github.com/pschaefferkoetter)
 * Sabrina Gortz - [LinkedIn](https://www.linkedin.com/in/sabrinagortz/) - [GitHub](https://github.com/sgortz)
-* Trevor Edwards - [LinkedIn Profile](https://twitter.com/your_username) - email@example.com
+* Trevor Edwards - [LinkedIn Profile](https://www.linkedin.com/in/trevor-j-edwards/) - [GitHub](https://github.com/Skoomatron)
 * Will Atwood - [LinkedIn Profile](https://twitter.com/your_username) - email@example.com
 * Yilin Liu - [LinkedIn Profile](https://twitter.com/your_username) - email@example.com
 
