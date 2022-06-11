@@ -48,11 +48,12 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [React.js](https://reactjs.org/)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+* ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 * [Recoil](https://recoiljs.org/)
-* [Bootstrap](https://getbootstrap.com)
 * [React Dropzone](https://react-dropzone.js.org/)
-* [Firebase](https://firebase.google.com/)
 * [Mongo Atlas](https://www.mongodb.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
