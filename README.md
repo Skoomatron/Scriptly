@@ -97,13 +97,13 @@ Check out our website [here](http://scriptly.us)
 <!-- CONTACT -->
 ## Dream Team
 
-* Alisha Barraw - [LinkedIn Profile](https://www.linkedin.com/in/alisha-barraw/) - Add your website here
-* Amina Thiam - [LinkedIn Profile](https://www.linkedin.com/in/aminathiam/) - Add your website here
-* Jonathan Ghee - [LinkedIn Profile](https://www.linkedin.com/in/jonathan-ghee/) - Add your website here
+* Alisha Barraw - [LinkedIn Profile](https://www.linkedin.com/in/alisha-barraw/) - [GitHub](https://github.com/akb3y)
+* Amina Thiam - [LinkedIn Profile](https://www.linkedin.com/in/aminathiam/) - [GitHub](https://github.com/amina197)
+* Jonathan Ghee - [LinkedIn Profile](https://www.linkedin.com/in/jonathan-ghee/) - [GitHub](https://github.com/JonathanGhee)
 * Peter Schaefferkoetter - [LinkedIn Profile](https://www.linkedin.com/in/pschaefferkoetter/) - [GitHub](https://github.com/pschaefferkoetter)
 * Sabrina Gortz - [LinkedIn](https://www.linkedin.com/in/sabrinagortz/) - [GitHub](https://github.com/sgortz)
 * Trevor Edwards - [LinkedIn Profile](https://www.linkedin.com/in/trevor-j-edwards/) - [GitHub](https://github.com/Skoomatron)
-* Will Atwood - [LinkedIn Profile](https://www.linkedin.com/in/william-atwood/) - email@example.com
-* Yilin Liu - [LinkedIn Profile](https://www.linkedin.com/in/yilin-liu-dfw/) - email@example.com
+* Will Atwood - [LinkedIn Profile](https://www.linkedin.com/in/william-atwood/) - [GitHub](https://github.com/Acid-Override)
+* Yilin Liu - [LinkedIn Profile](https://www.linkedin.com/in/yilin-liu-dfw/) - [GitHub](https://github.com/yiiiiilin)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
